@@ -11,17 +11,14 @@ h2 {
 
 }
 p {
-  color: #ffffff;
+  color: white;
   font-size: 250%;
   font-family: 'Comfortaa',cursive;
   text-align: center;
   border-style: solid;
   margin: 100px 40px 70px 100px;
-  background-image:url(https://www.lefthudson.com/wp-content/uploads/2019/11/purple-sparkly-backgrounds-elegant-pink-and-purple-glitter-background-after-effects-preview-easy-this-year-of-purple-sparkly-backgrounds.jpg);
+  background-image:url();
   padding: 25px 25px 25px 25px;
-}
-body {
-  background-color: lavender;
 }
 img {
   width: 600px;
@@ -37,10 +34,17 @@ li{
 
 }
 body{
-  background-color: pink;
+  background-image:url(https://i.pinimg.com/originals/3b/86/43/3b8643e22d8df33f6af651df26237e84.jpg)
 }
 .center{
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+table{
+  font-family: 'Comfortaa',cursive;
+  width: 50%;
+}
+table, th, td{
+  border: 3px solid white;
 }
